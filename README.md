@@ -128,7 +128,7 @@
 
 ### 🤖 RPA и автоматизация
 - **Проектирование архитектуры RPA-решений** — Академия "Шерпа Роботикс", 2024 [📄 Сертификат](assets/certificates/2024-08-03_sherpa-rpa-architect-certificate.pdf)
-- **AI-агенты в RPA: разработка на платформе Sherpa AI Server** — Академия "Шерпа Роботикс", 2024
+- **AI-агенты в RPA: разработка на платформе Sherpa AI Server** — Академия "Шерпа Роботикс", 2024 [📄 Сертификат](assets/certificates/2024-03-11_sherpa-ai-server-certificate.pdf)
 - **RPA-разработчик (Sherpa RPA)** — Академия "Шерпа Роботикс", 2023 [📄 Сертификат](assets/certificates/2023-10-02_sherpa-rpa-developer-certificate.pdf)
 
 ### 💻 Платформенная разработка
