@@ -154,6 +154,5 @@
 *(Труд машины — слава дисциплины.)*
 
 📧 [ausazhnev@gmail.com](mailto:ausazhnev@gmail.com)  
-🔗 [LinkedIn](#) *(добавьте ссылку, если есть)*
 
 </div>
