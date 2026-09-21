@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ausazhnev/ausazhnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Андрей Сажнев | Andrey Sazhnev
+### RPA Architect · Руководитель направления внутренней автоматизации
 
-Here are some ideas to get you started:
+📍 Астрахань, Россия · 📧 [ausazhnev@gmail.com](mailto:ausazhnev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+> *"Что сделано хорошо — сделано навсегда. Что сделано наспех — вернётся как долг."*
+> — *принцип Священных Шаблонных Конструкций*
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/ausazhnev?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ausazhnev?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ausazhnev&color=0e75b6&style=flat)
+
+</div>
+
+---
