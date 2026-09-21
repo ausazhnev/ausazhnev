@@ -42,11 +42,41 @@
 
 ---
 
-## 🎤 Выступления
+## 🛠 Технологический стек
 
-**Conversations 2025** — Спикер секции **RAG**  
-Выступление от лица вендора **Sherpa Robotics** совместно с Германом Тимаковым (коммерческий директор).  
-*Тема: Практическое применение RAG (Retrieval-Augmented Generation) в корпоративных RPA-решениях.*  
-🔗 [О конференции Conversations](https://conversations-ai.com/) — ключевая отраслевая конференция по генеративному AI в бизнесе и разработке
+<div align="center">
+
+**RPA & Оркестрация**
+
+<img src="assets/images/sherpa-logo.png" alt="Sherpa RPA" height="28" style="vertical-align: middle; margin-right: 5px;">
+![Master-Processor](https://img.shields.io/badge/Master--Processor-Pattern-1e88e5?style=for-the-badge)
+![Queue Management](https://img.shields.io/badge/Queue_Management-Enterprise-43a047?style=for-the-badge)
+
+**Языки & Скриптование**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Primary-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Microservices-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20|%20SQLite-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Интеграции & Данные**
+
+![REST API](https://img.shields.io/badge/REST_API-Design-FF6C37?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-Advanced-000000?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-2.0-555555?style=for-the-badge)
+
+**AI & Инновации**
+
+![RAG](https://img.shields.io/badge/RAG-Architecture-8B5CF6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-EC4899?style=for-the-badge)
+
+**Процессы**
+
+![Git](https://img.shields.io/badge/Git-Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-Mentor-2ea44f?style=for-the-badge)
+![Logging & Monitoring](https://img.shields.io/badge/Logging_&_Monitoring-Structured-FF9800?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Tech_Documentation-As--Is_%7C_To--Be-607D8B?style=for-the-badge)
+
+</div>
 
 ---
